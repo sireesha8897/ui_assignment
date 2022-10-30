@@ -1,0 +1,403 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.assignment-section {
+    background-color: #F9F5EF;
+    padding: 0px;
+    width: 1440px;
+    height: 8973px;
+}
+
+.logo-heading {
+    color: #00455A;
+    Width: 70px;
+    Height: 47.5px;
+    font-size: 30px;
+    font-family: "Playfair display";
+    font-weight: 900;
+}
+
+.navbar-section {
+    font-size: 28px;
+    color: #00455A;
+    font-weight: 700;
+    padding: 10px;
+
+}
+.button-box  {
+	background: #C29A5C;
+	border-radius: 8px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: 'Plus Jakarta Sans';
+	font-weight: 700;
+	font-size: 16px;
+	border-width: 0px;
+	width: 120px;
+	height: 40px;
+
+	
+	}
+.search-buttons {
+	width: 1440px;
+	height: 170px;
+	background: #00455A;
+	border-radius: 0px;
+
+	}
+.search-buttons-boxs {
+	width: 352px;
+	height: 60px;
+	background: #FFFFFF;
+	border: 1.5px solid #C29A5C;
+	border-radius: 8px;
+	}
+	
+
+
+.banner-section-bg {
+    background-image: url("https://www.servicenation.org/wp-content/uploads/2020/07/Barnes-Thornburg-Building-The-201-S.-Main-Office-Retail-KTGY-920x684-1-880x360.jpg");
+    height: auto;
+    width: 100%;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Playfair display";
+    font-size: 96px;
+    font-weight: 500;
+	padding-top: 30px;
+
+}
+
+.banner-caption {
+    font-family: "Plus Jakarta Sans";
+    font-size: 30px;
+    color: #FFFFFF;
+
+}
+
+.custom-button {
+    color: white;
+    background: #C1995B;
+    width: 170px;
+    height: 40px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-family: "Plus Jakarta Sans";
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+}
+
+.custom-second-button {
+    color: white;
+    background: #C1995B;
+    width: 130px;
+    height: 35px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-family: "Plus Jakarta Sans";
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+}
+
+.partnership-heading {
+    color: #FFFFFF;
+    font-family: "Plus Jakarta Sans";
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.rm-heading {
+    color: white;
+    font-size: 26px;
+    font-family: "Plus Jakarta Sans";
+}
+
+.zoop-content {
+    color: white;
+    font-size: 38px;
+    font-family: "Plus Jakarta Sans";
+    font-weight: 700;
+    padding: 40px;
+}
+
+.banner-section-bottom-container {
+    background-color: #F9F5EF;
+    width: 1440px;
+    height: 500px;
+}
+
+.banner-heading-bottom {
+    color: #00455A;
+    font-weight: 700;
+    font-size: 50px;
+    font-family: "Plus Jakarta Sans";
+}
+
+.banner-caption-bottom {
+    font-weight: 400;
+    font-family: "Plus Jakarta Sans";
+    font-size: 20px;
+    color: #00455A;
+}
+
+.custom-button-bottom {
+    color: white;
+    background: #C1995B;
+    width: 140px;
+    height: 50px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-family: "Plus Jakarta Sans";
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+}
+
+.flat-image {
+    width: 1440px;
+    height: 836px;
+}
+
+.banner-section-flats-matter {
+    background-color: #00455A;
+    width: 1438px;
+    height: 300px;
+}
+
+.banner-section-flats-heading {
+    font-family: "Playfair display";
+    color: #F9F5EF;
+    font-size: 64px;
+    font-weight: 500;
+}
+
+.banner-section-flats-content {
+    font-family: "Plus Jakarta Sans";
+    font-weight: 400;
+    font-size: 20px;
+    width: 1093px;
+    height: 60px;
+    color: #F9F5EF;
+}
+
+.enquiry-section-container {
+    background-color: #C1995B;
+    width: 1440px;
+    height: 420px;
+    padding: 20px;
+}
+
+.enquiry-section-heading {
+    color: #FFF8F8;
+    font-weight: 700;
+    font-size: 40px;
+    font-family: "Playfair Display";
+}
+
+.enquiry-section-paragraph {
+    color: #FFF8F8;
+    font-size: 20px;
+    font-family: "Plus Jakarta Sans";
+    font-weight: 400;
+
+}
+
+.enquiry-section-button {
+    background-color: #00455A;
+    border-radius: 8px;
+    font-family: "Plus Jakarta Sans";
+    color: white;
+    font-size: 18px;
+    width: 160px;
+    height: 50px;
+    border-width: 0px;
+}
+
+.view-partner-heading {
+    color: #00455A;
+    font-family: "Playfair Display";
+    font-size: 50px;
+    font-weight: 700;
+
+}
+
+
+.mobile-banner-1 {
+	display: none;
+}
+
+
+
+
+@media (max-width: 767px) {
+.banner-section-bg.desktop-banner1 {
+    display: none !important;
+}
+.mobile-banner-1 {
+    display: block;
+}
+}
+
+
+
+.carousel {
+  width: 100%;
+}
+
+.slide-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .slide-box img {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .slide-box img {
+    -ms-flex: 0 0 33.3333%;
+    flex: 0 0 33.3333%;
+    max-width: 33.3333%;
+  }
+}
+
+@media (min-width: 992px)
+{
+  .slide-box img {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: .5rem;
+}
+
+.faqs-page {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	padding: 112px 64px;
+	width: 1440px;
+	height: 600px;
+	background: #C1995B;
+	}
+.faqs-heading {
+	color: white;
+	font-size: 40px;
+	font-family: "Plus Jakarta Sans";
+	font-weight: 700;
+}
+.faqs-content {
+	color: #FFF8F8;
+	font-size: 13px;
+	font-family: "Plus Jakarta Sans";
+	}
+.faqs-property {
+	font-family: 'Playfair Display';
+	font-weight: 700;
+	font-size: 25px;
+	color: #FFF8F8;
+	}
+.plus-logo {
+	width: 28px;
+	height: 28px;
+	color: white;
+	background: #00455A;
+	border-radius: 43px;
+	text-align: center;
+	padding: 2px;
+	font-weight: 300;
+	}
+.multiplication-logo {
+	width: 28px;
+	height: 28px;
+	color: #C1995B;
+	background: white;
+	border-radius: 43px;
+	text-align: center;
+	padding: 2px;
+	font-weight: 300;
+	}
+ .right-0 {
+    right: 0;
+  }
+  
+ .top-0 {
+    top: 0;
+  }
+ .entairtnment-section {
+	width: 768px;
+	height: 58px;
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 48px;
+	color: #00455A;
+	padding: 20px;
+	}
+.ent-paragraph {
+	font-family: 'Plus Jakarta Sans';
+	font-weight: 400;
+	font-size: 16px;
+	color: #00455A;
+	padding: 20px;
+
+	}
+
+.footer-section {
+	width: 1440px;
+	height: 578px;
+	background: #00455A;
+	}
+.footer-section-heading { 
+	color: #F9F5EF;
+    font-size: 23px;
+    font-family: "Playfair display";
+    font-weight: 500;
+	}
+.footer-section-address  {
+	font-family: 'Plus Jakarta Sans';
+	font-weight: 600;
+	font-size: 14px;
+	color: #F9F5EF;
+	}
+.footer-section-paragraph {
+	font-family: 'Plus Jakarta Sans';
+	font-weight: 400;
+	font-size: 14px;
+	color: #F9F5EF;
+	}
+.footer-section-content {
+	font-family: 'Plus Jakarta Sans';
+	font-weight: 400;
+	font-size: 8px;
+	line-height: 150%;
+	text-decoration-line: underline;
+	color: #FFFFFF;
+	}
+.follow-us-icon-container {
+	color: white;
+	padding: 3px;
+
+}
+  
+  
+  
+  
+  
+  
